@@ -61,7 +61,7 @@ This is an interactive Machine Learning Web App "ASL-Transformer" developed usin
 
     * Clone the repository
         ```ruby
-        git clone https://github.com/bishal7679/ASL-Transformer.git
+        git clone https://github.com/PratyushaKumarKar/ASLtoSig-transformer.git
         ```
     * Set up Python virtual environment
         ```ruby
